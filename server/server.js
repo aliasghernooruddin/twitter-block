@@ -19,6 +19,7 @@ function getSignature(credentials, method, params, url) {
             array.push(`${key}=${object[key]}`);
         });
         return array
+
     }
 
     const oauth_consumer_key = 'oauth_consumer_key';
