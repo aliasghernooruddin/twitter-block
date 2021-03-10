@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "twitter-block-9168e": {
+      "hosting": {
+        "twitter-block": [
+          "twitter-block-9168e"
+        ]
+      }
+    }
+  }
+}
